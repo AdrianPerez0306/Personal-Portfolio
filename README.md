@@ -1,5 +1,3 @@
-# Personal-Portfolio
-
 # Data Science Projects
 ![Screenshot](ML.jpg)
 
@@ -12,8 +10,7 @@ Este es mi repositorio! Este repositorio contiene proyectos de Data Science y Ma
    - **Resultado:** El mejor resultado de r2_score esta dado por DecisionTreeClassifier() con 0.90, y el peor con SVR con 0.1 .
 
 ## Feedback
-Cualquier sugerencia o pregunta acerca de los proyectos es bienvenida. 
-I welcome any feedback, suggestions, or questions you may have about the projects or the repository.
+Cualquier sugerencia o pregunta acerca de los proyectos en este repositorio es bienvenida. 
 
 ## Contacto
 Contacto en perezadrian.m@hotmail.com
