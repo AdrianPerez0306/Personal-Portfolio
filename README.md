@@ -2,11 +2,8 @@
 
 # Data Science Projects
 ![Screenshot](ML.jpg)
-![](![Alt text](relative%20path/to/ML.jpg?raw=true "Title")
-Welcome to my Data Science Projects Repository! This repository contains a collection of my data science projects, showcasing my skills and expertise in the field. Each project demonstrates different aspects of data analysis, machine learning, and visualization.
 
- ![GitHub Repo stars](https://img.shields.io/github/stars/SUKHMAN-SINGH-1612/Data-Science-Projects?style=social)  ![GitHub forks](https://img.shields.io/github/forks/SUKHMAN-SINGH-1612/Data-Science-Projects?style=social)
-
+Este es mi repositorio! Este repositorio contiene proyectos de Data Science y Machine Learning, demostrando mis conocimientos en el area. 
 
 ### GitHub Page 
 [![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://sukhman-singh-1612.github.io/data_science/)
