@@ -5,16 +5,15 @@
 
 Este es mi repositorio! Este repositorio contiene proyectos de Data Science y Machine Learning, demostrando mis conocimientos en el area. 
 
-### GitHub Page 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://sukhman-singh-1612.github.io/data_science/)
-
 ## Projects
 1. [House Price Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/House%20Price%20Prediction)
-   -  **Description:** The project predicts the house price after studying the variables such as location, area, bredroom, bathroom count and many more.
-   - **Technologies Used:** The notebooks uses Linear Regression, Ridge Regression and Random Forest Regressor
-   - **Results:** The Random Forest Regressor performed best with accuracy of 87.89%
+   - **Descripcion:** Este proyecto realiza predicciones sobre precios de viviendas en California, teniendo en cuenta cantidad de habitaciones, camas, proximidad al oceano, y mas .
+   - **Algotirmos utilizados:** En este notebook se evaluan modelos de regresion con LinearRegression(), DecisionTreeRegressor(), RandomForestRegressor() y SVR() .
+   - **Resultado:** El mejor resultado de r2_score esta dado por DecisionTreeClassifier() con 0.90, y el peor con SVR con 0.1 .
 
-## Feedback and Contact
-I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at sukhmansinghbhogal@gmail.com
+## Feedback
+Cualquier sugerencia o pregunta acerca de los proyectos es bienvenida. 
+I welcome any feedback, suggestions, or questions you may have about the projects or the repository.
 
-Enjoy exploring my data science projects!
+## Contacto
+Contacto en perezadrian.m@hotmail.com
